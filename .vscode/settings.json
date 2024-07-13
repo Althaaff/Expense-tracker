@@ -1,0 +1,10 @@
+{
+  "launch": {
+
+
+    
+    "configurations": [],
+    "compounds": []
+  },
+  "javascript.suggest.enabled": true,
+}
